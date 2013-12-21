@@ -1,0 +1,121 @@
+body {
+	font-family: Arial, sans-serif;
+
+	background-image:url('/chalkboard-black.jpg');
+	color:white;
+	margin: 0px 40px;
+}
+
+.left {
+
+	width: 56%;
+	margin-left:3%;
+	padding: 1%;
+	opacity:0.9;
+}
+
+.right {
+	border:1px solid grey;
+	float:right;
+	clear:bottom;
+	width: 50%;
+	margin: 3%;
+	padding: 1%;
+	background-color:#FFF6FF;
+	color: black;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+#mainmenu img {
+	float:left;
+}
+
+.useractions {
+	font-size: large;
+	width:70px;
+	float:right;
+}
+
+#mainmenu {
+	margin-top: 0px;
+	height:80px;
+	padding-top: 10px;
+	padding-bottom:0px;
+}
+
+
+#mainmenu a:link {color:white;}
+#mainmenu a:visited {
+	color:white;
+list-style-type: none;}
+#mainmenu a:hover {color:yellow;} 
+
+#chapters {
+	display: inline-block;
+	position: absolute;
+	top: 60px;
+	right: 0px;
+	list-style-type: none;
+	border: grey;
+	background-color:#4C804C;
+	width: 100%;
+	font-size: 15px;
+	padding: 3px;
+}
+
+#chapters li {
+	display:inline;
+	margin:30px;
+}
+
+
+#problem {
+	border: 1px solid grey;
+	padding: 3%;
+	position: relative;
+	bottom: 30px;
+	margin: 0% 0% 0% 35%;
+	background-color: white;
+}
+
+#check, #answer_input  {
+	display:none;
+}
+
+#equation {
+	font-size: 12px;
+}
+
+
+input {
+	display: inline-block;
+}
+
+
+.menu {
+	font-size: small;
+	margin:0;
+	padding:0;
+	position: relative;
+	margin: 1%;
+	float:left;
+}
+
+a:link {
+	color:white;
+	text-decoration: none;
+	}      /* unvisited link */
+
+a:visited {
+	color:white;
+	text-decoration: none;
+	}      /* unvisited link */
+
+.accordian div {
+	width:200px;
+}
+
