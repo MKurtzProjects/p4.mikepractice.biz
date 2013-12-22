@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Share Stuff</title>
+	<title>Ultimate Mathbook</title>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
 	
