@@ -9,7 +9,10 @@
 	
 	<!-- Common CSS/JSS -->
     <link rel="stylesheet" href="/css/master_style.css" type="text/css">
+    <link href="../css/ui-lightness/jquery-ui-1.10.3.custom.css" rel="stylesheet">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="../js/jquery-1.9.1.js"></script>
+    <script src="../js/jquery-ui-1.10.3.custom.js"></script>
     
 	<!-- Controller Specific JS/CSS -->
 	<?php if(isset($client_files_head)) echo $client_files_head; ?>
@@ -29,7 +32,7 @@
     <div id='head'>
 
         <div id='mainmenu'>
-            <a id="logo" href='/'> <img src="/images/logo.png" alt=""></a></p>
+            <a id="logo" href='/'> <img src="/images/logo.png" alt=""></a>
 
 
 
@@ -72,7 +75,7 @@
     </div>
 
     </div>
-
+<script src="../js/neverendingtextbook.js"></script>
 </body>
 
 </html>

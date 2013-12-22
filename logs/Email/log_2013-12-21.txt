@@ -1,0 +1,30 @@
+2013-12-21 20:12:34 - INFO --> -------------------------- 
+2013-12-21 20:12:34 - INFO --> Controller/Method: users/p_signup 
+2013-12-21 20:12:34 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-21 20:12:34 - INFO --> To: joey (joey@test.com),  
+2013-12-21 20:12:34 - INFO --> CC:  
+2013-12-21 20:12:34 - INFO --> BCC:  
+2013-12-21 20:12:34 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-21 20:12:34 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, joey! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not joey joeboy?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-21 20:12:34 - INFO --> FAILED TO SEND EMAIL 
+2013-12-21 20:13:41 - INFO --> -------------------------- 
+2013-12-21 20:13:41 - INFO --> Controller/Method: users/p_signup 
+2013-12-21 20:13:41 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-21 20:13:41 - INFO --> To: agds (test@test.com),  
+2013-12-21 20:13:41 - INFO --> CC:  
+2013-12-21 20:13:41 - INFO --> BCC:  
+2013-12-21 20:13:41 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-21 20:13:41 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, agds! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not agds ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-21 20:13:41 - INFO --> FAILED TO SEND EMAIL 
