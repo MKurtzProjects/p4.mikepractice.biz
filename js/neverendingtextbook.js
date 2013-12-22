@@ -9,7 +9,7 @@
     $( "#accordion" ).accordion();
   });
 
-//This section of javascript is for the logic of the calculations
+
 
 
 //This function recognizes that the user has clicked the Train button.  This should generate new numbers and results for the calculation by calling the train function
@@ -42,6 +42,8 @@ percent( );
 console.log('working');
 });
 
+
+//This section of javascript is for the logic of the calculations
 var linear_mult = function( ) {
     var x = Math.floor((Math.random()*20)+1);
     var y = Math.floor((Math.random()*20)+1);
